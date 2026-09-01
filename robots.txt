@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tanujbhatt630.github.io/tanuj-bhatt-portfolio/sitemap.xml
